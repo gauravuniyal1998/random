@@ -148,11 +148,11 @@ const SignUp = ({ history, refetch }) => {
             <Welcome>
               <div>
                 <Heading color="white">
-                  <img src="../../public/favicon.ico"/>
+                  S.O.S.ial
                 </Heading>
               </div>
 
-              <p>See photos and updates from your friends.</p>
+              <p>A Social hub for College students.</p>
 
             </Welcome>
 
