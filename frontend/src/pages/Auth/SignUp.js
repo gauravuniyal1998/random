@@ -148,13 +148,12 @@ const SignUp = ({ history, refetch }) => {
             <Welcome>
               <div>
                 <Heading color="white">
-                  Connect with friends and the world around you.
+                  S.O.S.ial
                 </Heading>
               </div>
 
-              <p>See photos and updates from your friends.</p>
-              <p>Follow your interests.</p>
-              <p>Hear what people are talking about.</p>
+              <p>A Social hub for College students.</p>
+
             </Welcome>
 
             <Form>
