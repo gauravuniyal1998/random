@@ -165,7 +165,7 @@ const Header = ({ location, toggleSideBar }) => {
             <MenuIcon />
           </Hamburger>
 
-          <Logo to={Routes.HOME}><img src="logo.png" height="80px" alt="logo"
+          <Logo to={Routes.HOME}><img src="favicon.ico" height="80px" alt="logo"
         ></img></Logo>
 
           <Spacing left="sm" right="md">
